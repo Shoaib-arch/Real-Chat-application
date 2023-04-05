@@ -1,6 +1,7 @@
 {
   "name": "chat_application",
   "version": "1.0.0",
+  "type": "module",
   "description": "How to make a chat application using Socket.IO with node js and express",
   "main": "index.js",
   "scripts": {
